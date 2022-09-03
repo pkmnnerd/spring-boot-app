@@ -1,4 +1,4 @@
-package com.jumpydoll.app.pkmnnerd.springbootservice;
+package com.jumpydoll.app.pkmnnerd.springbootapp;
 
 public class Greeting {
 
